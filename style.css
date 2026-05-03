@@ -200,14 +200,6 @@ a {
     font-weight: bold;
 }
 
-.card iframe{
-    height: 230px;
-    width: 100%;
-    border: 0;
-    object-fit: cover;
-    border-radius: 15px;
-}
-
 .socials {
     display: flex;
     justify-content: center;
